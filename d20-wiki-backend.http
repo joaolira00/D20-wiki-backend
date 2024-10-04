@@ -1,0 +1,6 @@
+@d20_wiki_backend_HostAddress = http://localhost:5218
+
+GET {{d20_wiki_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
